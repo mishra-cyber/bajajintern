@@ -1,0 +1,24 @@
+{
+  "name": "deploynew",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mishra-cyber/bajajintern.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mishra-cyber/bajajintern/issues"
+  },
+  "homepage": "https://github.com/mishra-cyber/bajajintern#readme"
+}
